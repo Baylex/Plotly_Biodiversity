@@ -4,7 +4,7 @@
 Interactive Webpage can be found here: 
 https://baylex.github.io/Plotly_Biodiversity/
 
-## Graphs created by using Plotly
+## Graphs created with Plotly
 1. Horizontal Bar graph
 
 ![Pic 2](https://github.com/Baylex/Plotly_Biodiversity/blob/main/Images/bar_image.PNG)
